@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="images/profile.png" alt="Profile Picture" width="150" />
+  <img src="images/profile.png" alt="Profile Picture" style="border-radius:10px;" width="150" />
 </p>
 
 <h1 align="center">Hi, I'm Harvey Burman</h1>
@@ -16,7 +16,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-I'm a passionate Front End Developer with experience building responsive web applications using modern technologies. I love working on projects that solve real-world problems, optimizing code, and continuously learning new tools and frameworks.  
+I'm a passionate Front End Developer with experience building responsive, user-friendly web applications using modern technologies. I love creating projects that solve real-world problems, while continuously learning new tools, frameworks, and best practices.  
 </p>
 
 ---
@@ -44,7 +44,7 @@ I'm a passionate Front End Developer with experience building responsive web app
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/User Name Here" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/hravv" alt="GitHub Contribution Chart" />
 </p>
 
 <div align="center">
