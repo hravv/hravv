@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="#" alt="Profile Picture" width="150" />
+  <img src="images/profile.png" alt="Profile Picture" width="150" />
 </p>
 
 <h1 align="center">Hi, I'm Harvey Burman</h1>
